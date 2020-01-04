@@ -1,1 +1,1 @@
-#### Circulating tumor DNA methylation profiles enable early diagnosis, prognosis prediction, and screening for human cancer
+#### Circulating tumor DNA methylation aids in early diagnosis, prognosis, and screening for human cancer
